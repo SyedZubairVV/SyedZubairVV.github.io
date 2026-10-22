@@ -97,7 +97,6 @@ My first hands-on project is an agent that takes the transcript of a call, extra
 - **Evals:** I'll collect 20 or so transcripts, write down the tasks I'd expect from each, and score the agent against them. Every prompt change gets re-scored before I keep it.
 - **Retrieval:** if transcripts get long, I'll look at retrieving only the relevant parts instead of stuffing everything into the prompt.
 
-I'll write up what I build, including where it fails.
 ## Source
 
 Video: [You Can Learn AI Agent Harness & Loop Engineering In 19 Min](https://www.youtube.com/watch?v=GrNbuWWJYiI)
