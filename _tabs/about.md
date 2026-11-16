@@ -1,12 +1,13 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
+Hi, I'm Syed. I'm learning software engineering across AI and cloud, with the goal of working in a forward-deployed engineering role.
 
-Hi, I'm Syed. I'm learning AI and how to apply it in real workflows, with the goal of working in a forward-deployed engineering role.
+This site is where I document what I learn and build, in sections:
 
-This site is where I document what I learn, what I build, and what breaks along the way.
+- **AI:** LLM workflows, agents, evals
+- **Cloud:** Kubernetes, compute, storage, networking, AWS/Azure/GCP
 
-**Currently working on:** LLM workflows, tool calling, and automation.
+**Currently working on:** a call-transcript-to-tasks agent, and Kubernetes fundamentals.
